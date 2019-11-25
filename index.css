@@ -1,0 +1,24 @@
+body {
+    background: #222222;
+    color: #ffffff;
+    text-align: center;
+    user-select: none;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-weight: 900;
+}
+
+button {
+    border: none;
+    font-size: 30px;
+    cursor: pointer;
+    background: #ffffff;
+    color: #000000;
+    padding: 5px 20px 5px 20px;
+}
+
+.spacer {
+    height: 50px;
+}

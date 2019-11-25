@@ -1,0 +1,30 @@
+{
+  "name": "electron-tools-demos",
+  "version": "1.0.0",
+  "description": "Demos for electron tools",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/77Z/electron-tools-demos.git"
+  },
+  "keywords": [
+    "electron-tools-demos",
+    "electron-tools",
+    "electron",
+    "tools",
+    "demos"
+  ],
+  "author": "Vince Richter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/77Z/electron-tools-demos/issues"
+  },
+  "homepage": "https://github.com/77Z/electron-tools-demos#readme",
+  "dependencies": {
+    "electron-tools": "^2.0.1",
+    "vq_underscore": "^0.1.0"
+  }
+}
